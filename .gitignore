@@ -1,0 +1,3 @@
+# Sensitive API keys and environment files
+.env
+*.env
